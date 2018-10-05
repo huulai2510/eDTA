@@ -1,0 +1,6 @@
+export const DELETE_FIELD =  'DELETE_FIELD'
+export const ADD_FIELD =  'ADD_FIELD'
+export const GET_DRIVERS =  'GET_DRIVERS'
+export const CHANGE_COLUMN =  'CHANGE_COLUMN'
+export const SEND_ID =  'SEND_ID'
+export const SEARCH_TERM =  'SEARCH_TERM'

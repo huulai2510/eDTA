@@ -1,0 +1,29 @@
+.divimg{
+    height: 200px;
+  }
+  
+  #upload-photo {
+    opacity: 0;
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .labelform {
+    font-size: 0.85em;
+  }
+  
+  .z-index-100 {
+    z-index: 100;
+  }
+  
+  .far .fa-window-maximize:hover {
+    cursor: pointer;
+  }
+  
+  .r-0{
+    right: 0
+  }
+  
+  .h100{
+    height: 100%;
+  }
